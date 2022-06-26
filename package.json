@@ -1,0 +1,11 @@
+{
+  "name": "metadb.js",
+  "version": "1.0.0",
+  "description": "A framework for create database.",
+  "main": "index.js",
+  "author": "rascut",
+  "license": "MIT",
+  "dependencies": {
+    "metadb": "1.0.0"
+  }
+}
